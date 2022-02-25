@@ -20,7 +20,7 @@ def monkeyCalculator(monkey_one,monkey_two):
 ## uncomment calculateTime() and run > python monkeyCalculator.py
 ## ***IMPORTANT*** please recomment before you submit/sync your assignment.
 ## OR YOUR TEST WILL NOT RUN
-#monkey_one = input("Is the first monkey smiling?:  ").lower()
-#monkey_two = input("Is the second monkey smiling?: ").lower()
-#trouble = monkeyCalculator(monkey_one,monkey_two)
-#print(trouble)
+monkey_one = input("Is the first monkey smiling?:  ").lower()
+monkey_two = input("Is the second monkey smiling?: ").lower()
+trouble = monkeyCalculator(monkey_one,monkey_two)
+print(trouble)
